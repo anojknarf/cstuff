@@ -1,0 +1,70 @@
+/* PROGRAM TO SWAP TWO NUMBERS */
+#include<stdio.h>
+#include<conio.h>
+#include<string.h>
+void main()
+{int a,b;
+void swapp(int a,int b);
+clrscr();
+printf("\n ENTER TWO NUMBERS :\n");
+scanf("%d%d",&a,&b);
+swapp(a,b);
+getch();}
+void swapp(int a,int b)
+{int t;
+t=a;
+a=b;
+b=t;
+printf("\n THE SWAPPED VALUES :\nA=%d\nB=%d",a,b);}
+/*
+OUTPUT :
+
+ ENTER TWO NUMBERS :                                                            
+2                                                                               
+3                                                                               
+                                                                                
+ THE SWAPPED VALUES :                                                           
+A=3                                                                             
+B=2                                                                             
+*/
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                

@@ -1,0 +1,67 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{float c,C,f,F;
+clrscr();
+printf("\n ENTER THE DEGREE IN CELCIUS : ");
+scanf("%f",&c);
+f=((1.8*c)+32.0);
+printf("\n %6.3f CENTIGRADE = %6.3f FARENHEIT ",c,f);
+printf("\n\n ENTER THE DEGREE IN FARENHEIT : ");
+scanf("%f",&F);
+C=(((F-32.0)*5)/9);
+printf("\n %6.3f FARENHEIT = %6.3f CENTIGRAGE ",F,C);
+getch();}
+
+/*
+OUTPUT:
+
+ ENTER THE DEGREE IN CELCIUS : 44
+
+ 44.000 CENTIGRADE = 111.200 FARENHEIT
+
+ ENTER THE DEGREE IN FARENHEIT : 12
+
+ 12.000 FARENHEIT = -11.111 CENTIGRAGE
+*/
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                

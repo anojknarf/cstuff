@@ -1,0 +1,55 @@
+/* PROGRAM TO FIND IF THE GIVEN NUMBER IS ODD OR EVEN */
+#include<stdio.h>
+#include<conio.h>
+void main()
+{int n;
+clrscr();
+printf("\n ENTER ANY NUMBER : ");
+scanf("%d",&n);
+if((n%2)==0)
+printf("\n THE GIVEN NUMBER IS EVEN ");
+else
+printf("\n THE GIVEN NUMBER IS ODD ");
+getch();}
+
+/*
+OUTPUT :
+
+ ENTER ANY NUMBER : 67890147                                                    
+                                                                                
+ THE GIVEN NUMBER IS ODD
+*/
+                                                                                
+                                                                                
+
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+
+                                                                                
+
+                                                                                
+                                                                                
+
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
